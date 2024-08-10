@@ -7,15 +7,15 @@
 	>
 <channel>
 	<title>
-	Comments for Readbetwn Blog	</title>
+	Comments for Readbetwn	</title>
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<link>/</link>
 	<description></description>
-	<lastBuildDate>Wed, 17 Jul 2024 17:08:43 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 10 Aug 2024 18:36:35 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 </channel>
 </rss>
